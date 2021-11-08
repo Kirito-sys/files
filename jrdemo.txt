@@ -1,0 +1,9 @@
+hello wugang
+hello www
+<<<<<<< HEAD
+13245688
+=======
+QWQ
+QAQ
+123456
+>>>>>>> hotfix
